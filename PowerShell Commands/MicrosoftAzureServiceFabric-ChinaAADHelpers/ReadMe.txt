@@ -1,0 +1,1 @@
+Review the "Troubleshoot connecting to cluster with AAD.docx" for frequently asked questions on setting up AAD auth.
