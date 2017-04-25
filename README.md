@@ -10,21 +10,21 @@ https://www.azure.cn/documentation/articles/service-fabric-overview/
 #### By this github repo, specific templates, samples, practice and patterns for Service Fabric in China Azure will be shared, end users working with China Azure Service Fabric can refer to these materials first during planning, building, releasing and operationing phase to ensure best practice of projects.
 
 ### Service Fabric Common PowerShell commands and ARM templates:
-Common Practice - Service Fabric Cluster (China Azure)
+Common Practice - Service Fabric Cluster (China Azure) : 
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-Cluster-Deploy.ps1
 
-Common Practice - Service Fabric App (China Azure)
+Common Practice - Service Fabric App (China Azure) : 
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-App-Deploy.ps1
 
-ARM templates for China Azure Service Fabric
+ARM templates for China Azure Service Fabric : 
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/ServiceFabric-ARMTemplates-ChinaAzure.zip
 
-Service Fabric Helper script referred by common practice
+Service Fabric Helper script referred by common practice : 
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/ServiceFabricRPHelpers.psm1
 
 
 ### Quick Start:
-Setup local dev environment
+Setup local dev environment : 
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/
 
 Create first SF app:
