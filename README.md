@@ -5,7 +5,6 @@ Service Fabric is a distributed systems platform that makes it easy to package, 
 Service fabric is coming up with completely different architecture.As PaaS V2, service fabric will run on top of Virtual Machines (ARM based) and host customer application by distributed computing cluster, by that pattern, backend incident like VM outage and customer operation like application upgrade will ideally cause 0 data loss and not impact real time transaction at all.
 
 More reference
-
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/
 https://www.azure.cn/documentation/articles/service-fabric-overview/ 
 
