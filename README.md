@@ -8,7 +8,7 @@ More reference:</br>
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/
 https://www.azure.cn/documentation/articles/service-fabric-overview/ 
 
-### Frequently used PowerShell commands and ARM templates for China Azure Service Fabric:
+### Frequently used commands and templates for China Azure Service Fabric:
 Common Practice - Service Fabric Cluster (China Azure):</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-Cluster-Deploy.ps1
 
@@ -30,7 +30,8 @@ Create first SF app:</br>
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/
 
 
-
+### Get started wtih Pattern & Practice:</br>
+https://github.com/Azure/azureservicefabricchina/tree/master/Practice%20and%20Patterns
 
 # Contributing
 ----------------------------------------------------------------------------------------------------------------------------------
