@@ -1,0 +1,61 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "clusterLocation": {
+      "value": "chinaeast"
+    },
+    "clusterName": {
+      "value": "mycluster111"
+    },
+    "fabricTcpGatewayPort": {
+      "value": 19000
+    },
+    "fabricHttpGatewayPort": {
+      "value": 19080
+    },
+    "adminUserName": {
+      "value": "testadmin"
+    },
+    "adminPassword": {
+      "value": "User@123"
+    },
+    "loadBalancedAppPort1": {
+      "value": 80
+    },
+    "loadBalancedAppPort2": {
+      "value": 8081
+    },
+    "certificateStorevalue": {
+      "value": "My"
+    },
+    "certificateThumbprint": {
+      "value": "E7A1734E98775ECADE03023F7F17DDA5A19AD9BB"
+    },
+    "sourceVaultvalue": {
+      "value": "/subscriptions/abda8356-5cee-4b7f-a2be-1cc415ef78a7/resourceGroups/jianwsfshrg/providers/Microsoft.KeyVault/vaults/jianwsfKV1"
+    },
+    "certificateUrlvalue": {
+      "value": "https://jianwsfkv1.vault.azure.cn:443/secrets/jianwsfcert1/0e37db277cfb44cd8bb9ba4b9f5dddc2"
+    },
+    "clusterProtectionLevel": {
+      "value": "EncryptAndSign"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "supportLogStorageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "aadTenantId": {
+      "value": "99d86385-9b07-4221-9a3a-facb274186b5"
+    },
+    "aadClusterApplicationId": {
+      "value": "1440a413-dbcf-480e-8e84-89b7a88aca78"
+    },
+    "aadClientApplicationId": {
+      "value": "2c9d3224-a605-4ec7-87d9-8f7af0c782ee"
+    }
+
+  }
+}

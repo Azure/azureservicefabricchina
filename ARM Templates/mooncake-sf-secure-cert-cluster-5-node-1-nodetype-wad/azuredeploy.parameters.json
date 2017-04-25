@@ -1,0 +1,57 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "clusterName": {
+      "value": "jianwsf10250"
+    },
+    "fabricTcpGatewayPort": {
+      "value": 19000
+    },
+    "fabricHttpGatewayPort": {
+      "value": 19080
+    },
+    "adminUserName": {
+      "value": "testadmin"
+    },
+    "adminPassword": {
+      "value": "User@123"
+    },
+    "loadBalancedAppPort1": {
+      "value": 80
+    },
+    "loadBalancedAppPort2": {
+      "value": 8081
+    },
+    "loadBalancedAppPort3": {
+      "value": 8080
+    },
+    "loadBalancedAppPort4": {
+      "value": 8088
+    },
+    "certificateStorevalue": {
+      "value": "My"
+    },
+    "certificateThumbprint": {
+      "value": "836EEE96AED5E676E89735D1CD03581131321A0F"
+    },
+    "sourceVaultvalue": {
+      "value": "/subscriptions/abda8356-5cee-4b7f-a2be-1cc415ef78a7/resourceGroups/jianwsfrg10250/providers/Microsoft.KeyVault/vaults/jianwsfkv10250"
+    },
+    "certificateUrlvalue": {
+      "value": "https://jianwsfkv10250.vault.azure.cn:443/secrets/jianwsfcert10250/28d96698cf5547779c99c28a4f893e6f"
+    },
+    "clusterProtectionLevel": {
+      "value": "EncryptAndSign"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "supportLogStorageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "applicationDiagnosticsStorageAccountType": {
+      "value": "Standard_LRS"
+    }
+  }
+}
