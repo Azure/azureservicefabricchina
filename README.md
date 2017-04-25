@@ -9,7 +9,7 @@ Service fabric is coming up with completely different architecture.As PaaS V2, s
 
 More reference: https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/
 
-# By this github repo, specific templates, samples, practice and patterns in China Azure will be shared, end users working with China Service Fabric can refer to this materials first during planning, building, releasing and operationing phase to ensure best practice in his projects.
+### By this github repo, specific templates, samples, practice and patterns in China Azure will be shared, end users working with China Service Fabric can refer to this materials first during planning, building, releasing and operationing phase to ensure best practice in his projects.
 
 ## Service Fabric Common PowerShell commands and ARM templates:
 Common Practice - Service Fabric Cluster (China Azure)
