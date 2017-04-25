@@ -1,4 +1,3 @@
-
 Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and addresses the significant challenges in developing and managing cloud applications. By using Service Fabric, developers and administrators can avoid solving complex infrastructure problems and focus instead on implementing mission-critical, demanding workloads knowing that they are scalable, reliable, and manageable. Service Fabric represents the next-generation middleware
 platform for building and managing these enterprise-class, Tier-1 cloud-scale applications.
 
@@ -8,7 +7,7 @@ More reference:
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/
 https://www.azure.cn/documentation/articles/service-fabric-overview/ 
 
-#### By this github repo, specific templates, samples, practice and patterns in China Azure will be shared, end users working with China Service Fabric can refer to this materials first during planning, building, releasing and operationing phase to ensure best practice in his projects.
+#### By this github repo, specific templates, samples, practice and patterns for Service Fabric in China Azure will be shared, end users working with China Azure Service Fabric can refer to these materials first during planning, building, releasing and operationing phase to ensure best practice of projects.
 
 ### Service Fabric Common PowerShell commands and ARM templates:
 Common Practice - Service Fabric Cluster (China Azure)
@@ -31,8 +30,9 @@ https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-star
 Create first SF app:
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/
 
-All service fabric documents are organized here:
+All public service fabric documents are organized here:
 https://azure.microsoft.com/en-us/documentation/services/service-fabric/
+https://www.azure.cn/documentation/articles/service-fabric-overview/ 
 
 
 
