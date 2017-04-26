@@ -19,7 +19,7 @@ In brief, Service Fabric is a portable PaaS platform for running micro services 
 
 
 ### Frequently used commands and templates for China Azure Service Fabric:
-See more archived in this repo</br>
+(PS: all these are also archived in this repo)</br>
 Common Practice - Service Fabric Cluster (China Azure):</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-Cluster-Deploy.ps1</br>
 Common Practice - Service Fabric App (China Azure):</br>
