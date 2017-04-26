@@ -19,7 +19,6 @@ In brief, Service Fabric is a portable PaaS platform for running micro services 
 
 
 ### Frequently used commands and templates for China Azure Service Fabric:
-(PS: all are also archived in this repo)</br>
 Common Practice - Service Fabric Cluster (China Azure):</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-Cluster-Deploy.ps1</br>
 Common Practice - Service Fabric App (China Azure):</br>
@@ -27,16 +26,17 @@ http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-App-
 ARM templates for China Azure Service Fabric:</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/ServiceFabric-ARMTemplates-ChinaAzure.zip</br>
 Service Fabric Helper script referred by common practice:</br> 
-http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/ServiceFabricRPHelpers.psm1
+http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/ServiceFabricRPHelpers.psm1</br>
+See more archived in this repo</br>
 
 
 
 ### Quick Start:
 Setup local dev environment:</br>
-https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/
+https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/</br>
 Create first SF app:</br>
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/
-
+See more archived in this repo</br>
 
 ### Get started wtih Pattern & Practice:</br>
 https://github.com/Azure/azureservicefabricchina/tree/master/Practice%20and%20Patterns </br>
