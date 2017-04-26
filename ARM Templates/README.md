@@ -20,6 +20,6 @@ Test-AzureRmResourceGroupDeployment -ResourceGroupName jianwSFRG -TemplateFile "
 New-AzureRmResourceGroupDeployment -Name exampleARM-SF -ResourceGroupName jianwSFRG -TemplateFile ".\azuredeploy.json" -TemplateParameterFile ".\azuredeploy.parameters.json" 
 
 # Get resources for SF Cluster
-Get-AzureRmResource | Where-Object {$_.ResourceGroupName -eq "jianwsfrgbj"}
+Get-AzureRmResource | Where-Object {$_.ResourceGroupName -eq "jianwSFRG"}
 
 ```
