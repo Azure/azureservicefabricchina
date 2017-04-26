@@ -21,13 +21,13 @@ In brief, Service Fabric is a portable PaaS platform for running micro services 
 - <a href="">Samples for China Azure Service Fabric</a></br>
 
 
-### Quick Start:
+### Quick Start
 - <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/">Setup local dev environment</a></br>
-- <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/">Create first SF app</a></br>
+- <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/">Create first Service Fabric app</a></br>
 
 
 
-### Get started wtih Pattern & Practice:</br>
+### Get started with Pattern and Practice</br>
 - <a href="https://github.com/Azure/azureservicefabricchina/tree/master/Practice%20and%20Patterns">Practice and Patterns for China Azure service fabric</a></br>
 
 
