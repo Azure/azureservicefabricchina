@@ -5,6 +5,7 @@ Service Fabric is a distributed systems platform that makes it easy to package, 
 See more reference at <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/">global Azure Service Fabric</a> and <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/">China Azure Service Fabric</a>
 
 
+
 ### How to choose from Service Fabric and other PaaS hosting like container service
 Azure Service Fabric is more of App focus while Azure Container Service is more of infrastructure focus. 
 - Azure Container Service allows to use the open source, industry famous container orchestrators like Docker Swarm and Kubernetes, that gives more openness and flexibility.
@@ -16,30 +17,31 @@ Azure Service Fabric is more of App focus while Azure Container Service is more 
 
 In brief, Service Fabric is a portable PaaS platform for running micro services including Docker container app, it provides managed orchestration mechanism to guarantee service availability, scalability and reliability, which release developers to focus only on business logistics in application modules. See more at Practice and Patterns in this repo.
 
+
 ### Frequently used commands and templates for China Azure Service Fabric:
+(PS: all are also archived in this repo)
 Common Practice - Service Fabric Cluster (China Azure):</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-Cluster-Deploy.ps1
-
 Common Practice - Service Fabric App (China Azure):</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-App-Deploy.ps1
-
 ARM templates for China Azure Service Fabric:</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/ServiceFabric-ARMTemplates-ChinaAzure.zip
-
 Service Fabric Helper script referred by common practice:</br> 
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/ServiceFabricRPHelpers.psm1
+
 
 
 ### Quick Start:
 Setup local dev environment:</br>
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/
-
 Create first SF app:</br>
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/
 
 
 ### Get started wtih Pattern & Practice:</br>
 https://github.com/Azure/azureservicefabricchina/tree/master/Practice%20and%20Patterns
+
+
 
 # Contributing
 ----------------------------------------------------------------------------------------------------------------------------------
