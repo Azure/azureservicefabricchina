@@ -9,6 +9,15 @@ More reference:</br>
 https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/
 https://www.azure.cn/documentation/articles/service-fabric-overview/ 
 
+### How to choose from Service Fabric and other PaaS hosting like container service
+Azure Service Fabric is more of App focus while Azure Container Service is more of infrastructure focus. 
+- Azure Container Service allows to use the open source, industry famous container orchestrators like Docker Swarm and Kubernetes, that gives more openness and flexibility.
+- Azure Service Fabric provides its own orchestration, that means Service Fabric provides more integrated, easier to use feature rich model.
+- Azure Service Fabric offers several specific programming models, like reliable actor for IoT, reliable service for stateful app, and guest executables/containers for existing apps.
+- Service Fabric applications can run on premise, on Azure or even in other cloud platforms.
+
+In brief, Service Fabric is a portable PaaS platform for running micro services including Docker container app, it provides managed orchestration mechanism to guarantee service availability, scalability and reliability, which release developers to focus only on business logistics in application modules.
+
 ### Frequently used commands and templates for China Azure Service Fabric:
 Common Practice - Service Fabric Cluster (China Azure):</br>
 http://jianwstorage.blob.core.chinacloudapi.cn/sf-arm-templates/Mooncake-SF-Cluster-Deploy.ps1
