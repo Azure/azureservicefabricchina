@@ -1,7 +1,7 @@
 #### By this github repo, specific templates, scripts & tools, code samples, playbooks for Service Fabric in China Azure will be shared, end users working with China Azure Service Fabric can refer to these materials first during planning, building, releasing and operationing phase to ensure best practice of projects.
 
 Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and addresses the significant challenges in developing and managing cloud applications. By using Service Fabric, developers and administrators can avoid solving complex infrastructure problems and focus instead on implementing mission-critical, demanding workloads knowing that they are scalable, reliable, and manageable. Service Fabric will run on top of Virtual Machines (ARM based) and host customer application by distributed computing cluster, by that pattern, backend incident like VM outage and customer operation like application upgrade will ideally cause 0 data loss and not impact real time transaction at all.
-See more reference at <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/">global Azure Service Fabric</a> and <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/">China Azure Service Fabric</a>
+See more reference at <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/" target="_blank">global Azure Service Fabric</a> and <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-overview/" target="_blank">China Azure Service Fabric</a>
 
 ### How to choose from Service Fabric and other PaaS hosting like container service
 Azure Service Fabric is more of App focus while Azure Container Service is more of infrastructure focus. 
@@ -22,8 +22,8 @@ In brief, Service Fabric is a portable PaaS platform for running micro services 
 
 
 ### Quick Start
-- <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/">Setup local dev environment</a></br>
-- <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/">Create first Service Fabric app</a></br>
+- <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-get-started/" target="_blank">Setup local dev environment</a></br>
+- <a href="https://azure.microsoft.com/en-us/documentation/articles/service-fabric-create-your-first-application-in-visual-studio/" target="_blank">Create first Service Fabric app</a></br>
 
 
 
