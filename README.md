@@ -12,7 +12,7 @@ Azure Service Fabric is more of App focus while Azure Container Service is more 
 
 <img src="http://jianwstorage.blob.core.chinacloudapi.cn/gitpics/sfvsothers.png"></img>
 
-In brief, Service Fabric is a portable PaaS platform for running micro services including Docker container app, it provides managed orchestration mechanism to guarantee service availability, scalability and reliability, which release developers to focus only on business logistics in application modules. See more at <a href="https://github.com/Azure/azureservicefabricchina/tree/master/Practice%20and%20Patterns">Practice and Patterns</a> in this repo.
+In brief, Service Fabric is a portable PaaS platform for running micro services including Docker container app, it provides managed orchestration mechanism to guarantee service availability, scalability and reliability, which release developers to focus only on business logistics in application modules. See more at <a href="https://github.com/Azure/azureservicefabricchina/tree/master/Playbooks">Playbooks</a> in this repo.
 
 
 ### Frequently used commands and templates for China Azure Service Fabric
