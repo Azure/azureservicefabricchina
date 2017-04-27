@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/sfcomm" xmlns="http://schemas.microsoft.com/2011/01/fabric">
-  <Parameters>
-    <Parameter Name="rpcStateful1_PartitionCount" Value="2" />
-    <Parameter Name="rpcStateful1_MinReplicaSetSize" Value="1" />
-    <Parameter Name="rpcStateful1_TargetReplicaSetSize" Value="1" />
-  </Parameters>
-</Application>
