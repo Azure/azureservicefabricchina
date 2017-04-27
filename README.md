@@ -29,7 +29,7 @@ In brief, Service Fabric is a portable PaaS platform for running micro services 
 
 ### Get started with playbooks</br>
 - <a href="https://github.com/Azure/azureservicefabricchina/tree/master/Playbooks">Playbooks for China Azure service fabric</a></br>
-
+- <a href="https://github.com/Azure/azureservicefabricchina/tree/master/Decks">Decks for ramping up</a>
 
 
 # Contributing
