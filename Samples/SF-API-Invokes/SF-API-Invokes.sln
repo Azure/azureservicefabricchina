@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "API_Invokes", "API-Invokes\API_Invokes.sfproj", "{60779E09-962F-4B15-8E77-C57EC1D06B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Service1", "WebApi_Service1\WebApi_Service1.csproj", "{D02D7DB2-49C8-487C-A0A9-3E80EF876AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Caller1", "Api_Caller1\Api_Caller1.csproj", "{75724425-33E5-4157-A49E-D0754086AA31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60779E09-962F-4B15-8E77-C57EC1D06B80}.Debug|x64.ActiveCfg = Debug|x64
+		{60779E09-962F-4B15-8E77-C57EC1D06B80}.Debug|x64.Build.0 = Debug|x64
+		{60779E09-962F-4B15-8E77-C57EC1D06B80}.Debug|x64.Deploy.0 = Debug|x64
+		{60779E09-962F-4B15-8E77-C57EC1D06B80}.Release|x64.ActiveCfg = Release|x64
+		{60779E09-962F-4B15-8E77-C57EC1D06B80}.Release|x64.Build.0 = Release|x64
+		{60779E09-962F-4B15-8E77-C57EC1D06B80}.Release|x64.Deploy.0 = Release|x64
+		{D02D7DB2-49C8-487C-A0A9-3E80EF876AB2}.Debug|x64.ActiveCfg = Debug|x64
+		{D02D7DB2-49C8-487C-A0A9-3E80EF876AB2}.Debug|x64.Build.0 = Debug|x64
+		{D02D7DB2-49C8-487C-A0A9-3E80EF876AB2}.Release|x64.ActiveCfg = Release|x64
+		{D02D7DB2-49C8-487C-A0A9-3E80EF876AB2}.Release|x64.Build.0 = Release|x64
+		{75724425-33E5-4157-A49E-D0754086AA31}.Debug|x64.ActiveCfg = Debug|x64
+		{75724425-33E5-4157-A49E-D0754086AA31}.Debug|x64.Build.0 = Debug|x64
+		{75724425-33E5-4157-A49E-D0754086AA31}.Release|x64.ActiveCfg = Release|x64
+		{75724425-33E5-4157-A49E-D0754086AA31}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
