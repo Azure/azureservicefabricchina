@@ -1,0 +1,64 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "fabricTcpGatewayPort": {
+      "value": 19000
+    },
+    "fabricHttpGatewayPort": {
+      "value": 19080
+    },
+    "adminUserName": {
+      "value": "azureuser"
+    },
+    "adminPassword": {
+      "value": "User@123"
+    },
+    "loadBalancedAppPort1": {
+      "value": 80
+    },
+    "loadBalancedAppPort2": {
+      "value": 8081
+    },
+    "loadBalancedAppPort3": {
+      "value": 8080
+    },
+    "loadBalancedAppPort4": {
+      "value": 8088
+    },
+    "certificateStorevalue": {
+      "value": "My"
+    },
+    "clusterCertificateThumbprint": {
+      "value": "38B681A859CF957AF71ABABD9C4685AA798E0570"
+    },
+    "clusterCertSourceVaultvalue": {
+      "value": "/subscriptions/abda8356-5cee-4b7f-a2be-1cc415ef78a7/resourceGroups/jianwsfrg0721/providers/Microsoft.KeyVault/vaults/jianwsf0721vault"
+    },
+    "clusterCertificateUrlvalue": {
+      "value": "https://jianwsf0721vault.vault.azure.cn:443/secrets/sfcert/835c79bb487a4deb8bba15e63bd5623d"
+    },
+    "appCertificateThumbprint": {
+      "value": "461B1C3F9EADED40C0B2D5DBE08E3509BE1C4BAD"
+    },
+    "appCertSourceVaultvalue": {
+      "value": "/subscriptions/abda8356-5cee-4b7f-a2be-1cc415ef78a7/resourceGroups/jianwsfrg0721/providers/Microsoft.KeyVault/vaults/jianwsf0721vault"
+    },
+    "appCertificateUrlvalue": {
+      "value": "https://jianwsf0721vault.vault.azure.cn:443/secrets/sfapphttpscert/4d3617ec5f4f4d22bb771f781a6aa78e"
+    },
+
+    "clusterProtectionLevel": {
+      "value": "EncryptAndSign"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "supportLogStorageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "applicationDiagnosticsStorageAccountType": {
+      "value": "Standard_LRS"
+    }
+  }
+}

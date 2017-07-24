@@ -30,7 +30,7 @@
            listen. Please note that if your service is partitioned, this port is shared with 
            replicas of different partitions that are placed in your code. -->
       <!--<Endpoint Protocol="http" Name="ServiceEndpoint" Type="Input" Port="8291" />-->
-      <Endpoint Protocol="https" Name="ServiceEndpoint2" Type="Input" Port="8083" />
+      <Endpoint Protocol="https" Name="ServiceEndpoint2" Type="Input" Port="8080" />
       <!--  cert should be installed in local machine -> My store, attached jianwsfcert1.pfx is the self signed cert for the test, password is User@123 -->
     </Endpoints>
   </Resources>
